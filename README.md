@@ -51,7 +51,7 @@ npm sendText
 **_Lembre-se de configurar a chave de acesso e o número para o qual quer enviar_**
 
 
-## 📫 Contribuindo para esse All in One
+## 📫 Contribuindo para esse projeto
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
 Para contribuir com esse projeto, siga estas etapas:
 
@@ -63,7 +63,7 @@ Para contribuir com esse projeto, siga estas etapas:
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## 🤝 Colaboradores
+<!---## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
@@ -79,14 +79,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
-
+--->
 
 ## 😄 Seja um dos contribuidores<br>
 
-Quer fazer parte desse projeto? Clique [AQUI](#-contribuindo-para-esse-all-in-one) e leia como contribuir.
+Quer fazer parte desse projeto? Clique [AQUI](#-contribuindo-para-esse-projeto) e leia como contribuir.
 
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
 
-[⬆ Voltar ao topo](#all-in-one-testes-de-api-em-um-único-arquivo)<br>
+[⬆ Voltar ao topo](#teasy-bot-exemplo-de-integração-usando-nodejs-e-axios)<br>
