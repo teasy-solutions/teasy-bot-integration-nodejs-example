@@ -1,0 +1,13 @@
+{
+  "name": "teasy-bot-integration-nodejs-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yury Alencar",
+  "license": "MIT",
+  "scripts": {
+    "sendText": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
